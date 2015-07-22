@@ -8,8 +8,8 @@ First tool in here: Man Repeller colors for your ITerm. Why do pink and green re
 
 Please contribute to this repo with other delightful tools of man repelling. 
 
-<<<<<<< HEAD
-![beveryscared](https://c2.staticflickr.com/8/7481/16109558666_c6f22146b4_b.jpg)
-=======
+
 ![Manrepeller Seafoam Green](manrepeller_seafoamgreen.png?raw=true)
->>>>>>> 72ccfa50fcae1b278a5a8ec6bb25c2a200999d62
+
+
+![beveryscared](https://c2.staticflickr.com/8/7481/16109558666_c6f22146b4_b.jpg)
